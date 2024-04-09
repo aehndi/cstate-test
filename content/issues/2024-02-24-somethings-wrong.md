@@ -1,9 +1,10 @@
 ---
-title: Something is happening... 
+title: Something is happening...in der API 
 date: 2024-04-10 18:00:00 
 informational: true
 section: issue
-resolved: false
+resolved: true
+ResolvedWhen: 2024-04-09 14:30:00
 draft: false
 severity: disrupted
 affected: [API]
