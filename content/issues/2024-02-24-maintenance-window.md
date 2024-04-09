@@ -1,9 +1,9 @@
 ---
 title: Maintenance Announcement 
-date: 2024-02-24 10:35:00 
+date: Wednesdays at 18:00 CET 
 informational: true
 pin: true 
 section: issue
 ---
 
-We will shut down our network at midnight UTC on Feb 24. This does not affect the current status.
+We will update the applications with bugfixes and OS updates. The maintenance window is scheduled for Wednesdays at 18:00 CET. The expected downtime is estimated with 30 minutes.
